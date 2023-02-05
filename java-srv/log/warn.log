@@ -1,0 +1,14 @@
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] deprecation HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time. 
+[WARN] pooling HHH10001002: Using Hibernate built-in connection pool (not for production use!) 
+[WARN] SqlExceptionHelper SQL Warning Code: 0, SQLState: 00000 
+[WARN] SqlExceptionHelper table "dog" does not exist, skipping 

@@ -1,0 +1,18 @@
+version: '3'
+services:
+  java-srv:
+    build:
+      context: java-srv
+    volumes:
+      - ./java-srv/log:/root/log
+    depends_on:
+      - db
+    links:
+      - "db:db"
+
+  db:
+    build: db
+    environment:
+      - POSTGRES_DB=animal
+      - POSTGRES_USER=maria
+      - POSTGRES_PASSWORD=pass
